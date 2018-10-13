@@ -1,7 +1,7 @@
 {
   "name": "famous-last-words",
   "version": "0.1.0",
-  "description": "",
+  "description": "Things people say when they work at (late) technology startups...",
   "keywords": [],
   "engines": {
     "node": ">=4"
