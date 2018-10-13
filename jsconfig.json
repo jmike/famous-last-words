@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "es6",
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": "."
+  },
+  "exclude": [
+    "node_modules",
+    "dist",
+    "coverage",
+    "__test__",
+    "*.spec.js",
+    "*.test.js",
+    "*.json"
+  ]
+}
