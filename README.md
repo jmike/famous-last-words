@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/famous-last-words.svg)](https://www.npmjs.com/package/famous-last-words)
 
-We, as engineers, designers, etc. hear a lot of madness in technology startups. We voiceless pawns see the reaper coming before management does. We know when a project is doomed to fail but no one would listen.
+We, as engineers, designers, etc. hear a lot of madness in technology startups. We voiceless see the reaper coming before management does. We know when a project is doomed to fail.
 
 This is a recollection of things people famously say mere moments before the end. It is our utmost duty to document these for the next generations…
 
@@ -16,14 +16,12 @@ Install _famous-last-words_ using npm or yarn.
 
 ## Quick start
 
-The package exposes nothing more, than an array of strings.
+This package exposes a simple array of strings. Use it as you'd use any other JavaScript array.
 
 ```javascript
 const famousLastWords = require('famous-last-words');
 
-famousLastWords.forEach((e) => {
-  console.log(e);
-});
+console.log(famousLastWords[0]); // prints "You don't need tests."
 ```
 
 ## License
