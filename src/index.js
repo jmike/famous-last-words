@@ -6,4 +6,9 @@ export default [
   'The leak is minor, we’ll just add more RAM later.',
   'Looks like it’s all working fine',
   'We’ll fix it later',
+  'If it works it works.',
+  'Let’s build our own framework for it.',
+  'This plugin should cover all our needs.',
+  'Do we need source control for this one?',
+  'More junior developers > Less senior developers',
 ];
