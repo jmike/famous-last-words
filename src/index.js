@@ -13,6 +13,5 @@ export default [
   'Writing tests takes x3 time than writing actual code.',
   'We need you to work on features. Not performance.',
   'Please do not worry a lot about quality. This is a prototype.',
-  'Hurry up. This is just a proof of concept.',
   'Can we worry about security later?',
 ];
