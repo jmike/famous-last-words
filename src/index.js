@@ -13,5 +13,9 @@ export default [
   'Writing tests takes x3 time than writing actual code.',
   'We need you to work on features. Not performance.',
   'Please do not worry a lot about quality. This is a prototype.',
+  'Since the tests dont pass, just skip them for this delivery build.',
+  'Just make a script to restart the server everyday at 3:00 AM, when nobody uses it, to get around memory leaks.',
+  'You can fix issues as they rise in order to be ready to ship the day after the FAT finishes.',
+  '-We will track progress using your JIRA.-Not everone at our organisation has the expertise to use JIRA, we must track progress by exchanging word documents in emails',
   "It's too early to think about security.",
 ];
