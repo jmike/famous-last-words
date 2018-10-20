@@ -8,6 +8,8 @@ This is a recollection of things people famously say mere moments before the end
 
 **Join the cause, document your own experience.**
 
+![Soon](images/soon.jpg)
+
 ## Installation
 
 Install _famous-last-words_ using npm or yarn.
