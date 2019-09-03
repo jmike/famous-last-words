@@ -17,4 +17,5 @@ export default [
   'You can find all the AWS passwords posted on the fridge',
   'Can you redesign this? Our website should look more like Linkedin.',
   'No need to focus on UX. We will make a video with instructions.',
+  'We are not that big, this will never happen to us',
 ];
