@@ -14,4 +14,5 @@ export default [
   'We need you to work on features. Not performance.',
   'Please do not worry a lot about quality. This is a prototype.',
   "It's too early to think about security.",
+  "It's NoSQL. It scales well.",
 ];
