@@ -16,4 +16,5 @@ export default [
   "It's too early to think about security.",
   "It's NoSQL. It scales well.",
   "This is a corner case which will never occur on production.",
+  "The data is safe. We run RAID 6.",
 ];
