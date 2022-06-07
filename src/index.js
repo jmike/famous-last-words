@@ -17,4 +17,5 @@ export default [
   "It's NoSQL. It scales well.",
   "This is a corner case which will never occur on production.",
   "The data is safe. We run RAID 6.",
+  "Client said we need a quick and dirty solution.",
 ];
