@@ -18,4 +18,5 @@ export default [
   "This is a corner case which will never occur on production.",
   "The data is safe. We run RAID 6.",
   "Client said we need a quick and dirty solution.",
+  "Go ahead. This will only incur a 10 seconds downtime.",
 ];
