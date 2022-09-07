@@ -7,7 +7,13 @@
   },
   "license": "MIT",
   "description": "Things people say when they work at (late) technology startups...",
-  "keywords": [],
+  "keywords": [
+    "quotes",
+    "fun",
+    "humour",
+    "death",
+    "irony"
+  ],
   "engines": {
     "node": ">=4"
   },
