@@ -15,4 +15,11 @@ export default [
   'Please do not worry a lot about quality. This is a prototype.',
   "It's too early to think about security.",
   'If it works, don’t touch it.',
+  "It's NoSQL. It scales well.",
+  "This is a corner case which will never occur on production.",
+  "The data is safe. We run RAID 6.",
+  "Client said we need a quick and dirty solution.",
+  "Go ahead. This will only incur a 10 seconds downtime.",
+  "Amazon EC2 has zero downtime, so there is no need to setup a standby server.",
+  "Last time I checked, the backup was working fine.",
 ];

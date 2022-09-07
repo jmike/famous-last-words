@@ -2,17 +2,21 @@
 
 [![npm version](https://badge.fury.io/js/famous-last-words.svg)](https://www.npmjs.com/package/famous-last-words)
 
-We, as engineers, designers, etc. hear a lot of madness in technology startups. We voiceless see the reaper coming before management does. We know when a project is doomed to fail.
+We, as engineers, designers, etc. receive a lot of crazy in technology startups. We voiceless see the reaper coming before management does. We know when a project is doomed to fail.
 
-This is a recollection of things people famously say mere moments before the end. It is our utmost duty to document these for the next generations…
+This is a recollection of things people famously say mere moments before the end. It is our utmost duty to document these for the next generations...
 
 **Join the cause, document your own experience.**
+
+![Soon](images/soon.jpg)
 
 ## Installation
 
 Install _famous-last-words_ using npm or yarn.
 
-`$ npm i famous-last-words`
+```bash
+npm i famous-last-words
+```
 
 ## Quick start
 
