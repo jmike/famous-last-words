@@ -22,13 +22,17 @@
     "lint": "eslint .",
     "precommit": "lint-staged",
     "build": "rollup -c",
-    "prepublish": "npm run build"
+    "changeset": "changeset",
+    "prepublish": "npm run build",
+    "publish": "changeset publish"
   },
   "dependencies": {},
   "devDependencies": {
     "@babel/cli": "^7.18.10",
     "@babel/core": "^7.19.0",
     "@babel/preset-env": "^7.19.0",
+    "@changesets/changelog-github": "^0.4.6",
+    "@changesets/cli": "^2.24.4",
     "eslint": "^5.16.0",
     "eslint-config-prettier": "^3.6.0",
     "eslint-plugin-import": "^2.26.0",
