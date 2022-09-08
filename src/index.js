@@ -26,4 +26,11 @@ export default [
   'Go ahead. This will only incur a 10 seconds downtime.',
   'Amazon EC2 has zero downtime, so there is no need to setup a standby server.',
   'Last time I checked, the backup was working fine.',
+  "There is no time to update the application. We'll solve this using a stored procedure.",
+  'There is no need for an index; this table will never grow large.',
+  'Can you give me 5 minutes for a last CSS fix before the production deployment?',
+  "Please train those 3 new people we've hired. They will help you with your late project.",
+  'The application has zero bugs.',
+  "We don't have an analyst. Analysis will be done by all of us!",
+  'No need for a pentest because we will run this on the cloud.',
 ];
