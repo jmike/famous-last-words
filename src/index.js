@@ -15,7 +15,7 @@ export default [
   'Please do not worry a lot about quality. This is a prototype.',
   "It's too early to think about security.",
   'You can find all the AWS passwords posted on the fridge.',
-  'Can you redesign this? Our website should look more like Linkedin.',
+  'Can you redesign this? Our website should look more like LinkedIn.',
   'No need to focus on UX. We will make a video with instructions.',
   'We are not that big, this will never happen to us.',
   "It's NoSQL. It scales well.",
