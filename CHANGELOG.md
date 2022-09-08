@@ -1,5 +1,11 @@
 # famous-last-words
 
+## 0.5.0
+
+### Minor Changes
+
+- 6d62953: More crazy quotes
+
 ## 0.4.1
 
 ### Patch Changes
