@@ -1,6 +1,6 @@
 # Famous last words
 
-[![npm version](https://badge.fury.io/js/famous-last-words.svg)](https://www.npmjs.com/package/famous-last-words)
+[![npm version](https://img.shields.io/npm/v/famous-last-words.svg?color=0c0)](https://www.npmjs.com/package/famous-last-words)
 
 We, as engineers, designers, etc. receive a lot of crazy in technology startups. We voiceless see the reaper coming before management does. We know when a project is doomed to fail.
 
