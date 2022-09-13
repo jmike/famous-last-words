@@ -33,4 +33,5 @@ export default [
   'The application has zero bugs.',
   "We don't have an analyst. Analysis will be done by all of us!",
   'No need for a pentest because we will run this on the cloud.',
+  "We've been doing it like this for years.",
 ];
