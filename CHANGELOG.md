@@ -1,5 +1,11 @@
 # famous-last-words
 
+## 0.6.0
+
+### Minor Changes
+
+- f994bb5: We've been doing this like this for years
+
 ## 0.5.0
 
 ### Minor Changes
